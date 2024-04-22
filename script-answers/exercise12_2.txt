@@ -1,0 +1,15 @@
+Script started on Sun Apr 21 15:40:13 2024
+Restored session: Sun Apr 21 15:28:26 EDT 2024
+[1m[7m%[27m[1m[0m                                                                                                                                    ]7;file://czhang/Users/czhang/Documents/GitHub/fso-container/script-answers[0m[27m[24m[Jczhang@czhang script-answers % [K[?2004h[7mdocker start -i determined_driscoll[27m[35D[27md[27mo[27mc[27mk[27me[27mr[27m [27ms[27mt[27ma[27mr[27mt[27m [27m-[27mi[27m [27md[27me[27mt[27me[27mr[27mm[27mi[27mn[27me[27md[27m_[27md[27mr[27mi[27ms[27mc[27mo[27ml[27ml[?2004l
+[?2004h]0;root@54c0d980f34d: /root@54c0d980f34d:/# mkdir usr/src/app
+[?2004l[?2004h]0;root@54c0d980f34d: /root@54c0d980f34d:/# cd usr/src/app
+[?2004l[?2004h]0;root@54c0d980f34d: /usr/src/approot@54c0d980f34d:/usr/src/app# touch index.js
+[?2004l[?2004h]0;root@54c0d980f34d: /usr/src/approot@54c0d980f34d:/usr/src/app# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                                                                    ]7;file://czhang/Users/czhang/Documents/GitHub/fso-container/script-answers[0m[27m[24m[Jczhang@czhang script-answers % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Apr 21 15:40:54 2024
