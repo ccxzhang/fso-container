@@ -4,9 +4,6 @@ WORKDIR /usr/src/app
 
 COPY . .
 
-RUN npm ci 
-
-
-ENV DEBUG=playground:*
+RUN npm install
 
 CMD npm start
